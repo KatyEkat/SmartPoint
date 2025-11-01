@@ -41,9 +41,6 @@ npm run build
 npm run preview
 ```
 
-## Project link
-
-https://smart-point-gamma.vercel.app/users
 
 ### Contacts for communication on all issues
 

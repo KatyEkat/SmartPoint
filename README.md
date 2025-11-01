@@ -26,7 +26,7 @@ https://jsonplaceholder.typicode.com/users
 
 ```bash
 # 1. Clone repository
-git clone <repo-url>
+git clone
 
 # 2. Install dependencies
 npm install
